@@ -5,7 +5,7 @@ const db = require('./db');
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());//req.body
 
-const menu = require('./models/menu');
+//const menu = require('./models/menu');
 
 app.get('/',(req,res)=>{
     res.send("Welcome to the Server");

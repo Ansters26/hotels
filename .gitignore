@@ -1,0 +1,4 @@
+#ignore node_modules entire directory
+node_modules/
+
+#directories in this file cannot be added using git add command

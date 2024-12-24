@@ -4,3 +4,13 @@
 4) for individual folder-
     git add server.js
     syntax - git add 'filename'
+
+5) make a file .gitignore 
+this file will contain all the folders/files which we dont want git to track
+they for our personal use
+
+6) if we have already added something but we wanted to ignore it so we use command
+. git rm -r --cached node_modules
+
+7)git commit -m "Message"
+this savves the snapshot of current state of project
