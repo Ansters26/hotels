@@ -1,0 +1,6 @@
+1) git init in root folder
+2) git status tells us which files are not added to git(untracked)
+3)git add .
+4) for individual folder-
+    git add server.js
+    syntax - git add 'filename'
